@@ -12,12 +12,20 @@ For our paper, we aimed to bring together a list of datasets and databases that 
 
 # How to contribute
 
-If you have created or know of any womens health data sets or databases that is suitable for AI research, please contribute to our list.
+If you have created or know of any womens health data sets or databases that are suitable for AI research, please contribute to our list.
 
-### To list a dataset or database:
-* Open an issue in this repository.
+### Adding a dataset or database to the list:
+**Option 1:**
+  * Open an issue in this repository.
+  * Add all the information about the data - see the columns in the list.
+  * We will then review this.
+  * Then open a pull request and add your data to the list.
+  * We will do a final review to check it is added correctly and then approve.
+  * Merge your addition to the list!
 
-* Or send an email to ___ to provide the all the information about the data.
+**Option 2:**
+* Fill in this google form to provide all the information about the data - add link to form.
+* We will then add the data to our list. 
 
 
 # Contact information
