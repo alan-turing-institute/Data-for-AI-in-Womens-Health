@@ -1,4 +1,4 @@
-# AI for womens health data
+# AI for womens health data list
 
 This repository was created by the authors of the *Towards equitable AI for women’s health: accessible data as a catalyst for innovation* paper.
 
