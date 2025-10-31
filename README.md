@@ -1,12 +1,18 @@
-# AI for womens health data list
+# Data for AI in Womens Health
 
 This repository was created by the authors of the *Towards equitable AI for women’s health: accessible data as a catalyst for innovation* paper.
 
 **Add  pre-print link here**
 
+**Zenodo archive of full data table:**
+Schor, B., Caolo, K., Doan, L. M. T., Delfino, M., Occhipinti, A., Lu, H. Y., & Karoune, E. (2025). Towards equitable AI for women's health: accessible data as a catalyst for innovation [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16644069
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16644069.svg)](https://doi.org/10.5281/zenodo.16644069)
+
+
 ## Introduction
 
-The list of womens health data for AI research was initiated after the [AI in Women’s Health: Bridging research and patient voices 1-day conference](https://www.crassh.cam.ac.uk/blog/ai-in-womens-health-bridging-research-and-patient-voices-i-event-report/) on 5th June 2025, organised by the AI for Women's health supra-interest group. 
+The spreadsheet of data for AI in Womens Health was initiated after the [AI in Women’s Health: Bridging research and patient voices 1-day conference](https://www.crassh.cam.ac.uk/blog/ai-in-womens-health-bridging-research-and-patient-voices-i-event-report/) on 5th June 2025, organised by the AI for Women's health supra-interest group. 
 
 For our paper, we aimed to bring together a list of datasets and databases that were easily accessible and advocate for the need to make data open and FAIR to increase accessibility and reuse. This list was not intended to be a comprehensive, but a starting point for others to add to.  
 
@@ -17,20 +23,19 @@ If you have created or know of any womens health data sets or databases that are
 ### Adding a dataset or database to the list:
 **Option 1:**
   * Open an issue in this repository.
-  * Add all the information about the data - see the columns in the list.
-  * We will then review this.
-  * Then open a pull request and add your data to the list.
-  * We will do a final review to check it is added correctly and then approve.
-  * Merge your addition to the list!
+  * Add all the information about the data - see the columns in the spreadsheet.
+  * We will then review this and reply with a comment.
+  * Then we will open a pull request and add your data to the spreadsheet.
+  * We will add you to our contributor list using all-contributors bot.
 
 **Option 2:**
 * Fill in this google form to provide all the information about the data - add link to form.
-* We will then add the data to our list. 
+* We will then add the data to our list.
+* We will add you as our contributor list using all-contributors bot.
 
 
 # Contact information
-
-
+For help or more information, please contact Emma Karoune at ekaroune@turing.ac.uk
 
 # License
 
