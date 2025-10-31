@@ -5,9 +5,9 @@ This repository was created by the authors of the *Towards equitable AI for wome
 **Add  pre-print link here**
 
 **Zenodo archive of full data table:**
-Schor, B., Caolo, K., Doan, L. M. T., Delfino, M., Occhipinti, A., Lu, H. Y., & Karoune, E. (2025). Towards equitable AI for women's health: accessible data as a catalyst for innovation [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16644069
+Schor, B., Caolo, K., Doan, L. M. T., Delfino, M., Occhipinti, A., Lu, H. Y., & Karoune, E. (2025). Towards equitable AI for women's health: accessible data as a catalyst for innovation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16644069](https://doi.org/10.5281/zenodo.16644069)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16644069.svg)](https://doi.org/10.5281/zenodo.16644069)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16644069.svg)][https://doi.org/10.5281/zenodo.16644069]
 
 
 ## Introduction
