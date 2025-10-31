@@ -34,7 +34,7 @@ If you have created or know of any womens health data sets or databases that are
   * We will add you to our contributor list using all-contributors bot.
 
 **Option 2:**
-* Fill in this google form to provide all the information about the data - add link to form.
+* Fill in this google form to provide all the information about the data - [Link to form.](https://forms.gle/q5TUpvG2Twzxz71R7)
 * We will then add the data to our list.
 * We will add you as our contributor list using all-contributors bot.
 
