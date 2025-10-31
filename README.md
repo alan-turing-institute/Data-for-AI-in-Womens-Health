@@ -9,6 +9,7 @@ Artificial intelligence (AI) is rapidly advancing across health domains, yet its
 
 
 **Zenodo archive of full data table:**
+
 Schor, B., Caolo, K., Doan, L. M. T., Delfino, M., Occhipinti, A., Lu, H. Y., & Karoune, E. (2025). Towards equitable AI for women's health: accessible data as a catalyst for innovation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16644069](https://doi.org/10.5281/zenodo.16644069)
 
 
