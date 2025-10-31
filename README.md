@@ -4,6 +4,10 @@ This repository was created by the authors of the *Towards equitable AI for wome
 
 **Add  pre-print link here**
 
+**Paper abstract:**
+Artificial intelligence (AI) is rapidly advancing across health domains, yet its integration into women’s health remains challenged, limited by under-representation in clinical literature and datasets, inconsistent data standards, and a lack of coordinated access to multimodal research-quality data resources. This research maps the current horizon of accessible (i.e. open and accessible on request) data that can contribute to AI development for women’s health. Main resources include clinical data repositories, cancer registries, biobanks and published research studies. We summarise data resources related to cancers (breast, cervical, endometrial, and ovarian), chronic and acute health conditions (cardiovascular), under-diagnosed conditions (endometriosis), wearable and vital sign data from remote health monitoring, and discuss other potential resources, such as the broader healthcare data in community care and pharmacy data. We provide a working definition of ”women’s health”, a table centralising key accessible data sources under the level of resources (national registry/clinical study, single/multimodality), and discuss key challenges and opportunities to advance AI research and innovations in the field. To support accessibility and reuse, we also provide an open-access online repository of curated datasets. This paper thus offers a cornerstone for building an equitable AI for women’s health: it can support future assessments of data completeness, demographic diversity, clinically deployability, methodological benchmarks, licensing, pharmacovigilance, and contributes to highlighting the global AI research in the women’s health ecosystem.
+
+
 **Zenodo archive of full data table:**
 Schor, B., Caolo, K., Doan, L. M. T., Delfino, M., Occhipinti, A., Lu, H. Y., & Karoune, E. (2025). Towards equitable AI for women's health: accessible data as a catalyst for innovation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.16644069](https://doi.org/10.5281/zenodo.16644069)
 
