@@ -2,7 +2,7 @@
 
 This repository was created by the authors of the *Towards equitable AI for women’s health: accessible data as a catalyst for innovation* paper.
 
-**Add  pre-print link here**
+**Pre-print link:[https://www.researchsquare.com/article/rs-8001150/v1]**
 
 **Paper abstract:**
 
