@@ -3,6 +3,7 @@
 This repository was created by the authors of the *Towards equitable AI for women’s health: accessible data as a catalyst for innovation* paper.
 
 **Pre-print paper link [here](https://www.researchsquare.com/article/rs-8001150/v1)**
+* Bianca Schor, Kristin Collett Caolo, Le Minh Thao Doan et al. Towards equitable AI for women’s health:accessible data as a catalyst for innovation, 10 March 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-8001150/v1]
 
 **Paper abstract:**
 
